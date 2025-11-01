@@ -1,5 +1,4 @@
-# Atividade: CRUD de Alunos (Node.js puro)
-
+# Atividade: CRUD de Alunos
 ## Objetivo
 Fazer CRUD e aplicar lógica de cálculo dentro das rotas.
 
@@ -19,3 +18,4 @@ Crie uma API /alunos onde cada aluno tem nome, nota1, nota2, nota3.
 | GET     | /alunos/:id        | Retorna aluno específico |
 | GET     | /alunos/media/:id  | Calcula média e mostra situação (aprovado/reprovado) |
 | PUT     | /alunos/:id        | Atualiza notas ou nome do aluno |
+
